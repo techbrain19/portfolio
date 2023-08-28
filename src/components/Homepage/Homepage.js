@@ -39,6 +39,7 @@ function Home() {
 
           <Col md={5}>
             <div className="imagedeveloper">
+              
             </div>
           </Col>
         </Row>
